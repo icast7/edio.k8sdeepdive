@@ -1,0 +1,3 @@
+kubectl apply -f svc.yml
+curl localhost:30001 
+> <html><head><title>K8s rocks!</title><link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css"/></head><body><div class="container"><div class="jumbotron"><h1>Kubernetes Rocks!</h1><p>Check out my K8s Deep Dive course!</p><p> <a class="btn btn-primary" href="https://acloud.guru/learn/kubernetes-deep-dive">The video course</a></p><p></p></div></div></body></html>
